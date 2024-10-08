@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow==1.15.0  # Adjust this version as needed
